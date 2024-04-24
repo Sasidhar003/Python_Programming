@@ -1,0 +1,5 @@
+my_string = "I am sasidhar"
+
+#finding last character of a string with negative indexing
+
+print(my_string[-1])
